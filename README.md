@@ -27,8 +27,7 @@ About my mastery in some technologies:
 👋 I REALLY USE
  - PYTHON (+DATA ANALISYS AND A.I. MOST COMMON LIBS)
  - JAVASCRIPT (+NODEJS +JQUERY)
- - CSS (+BOOTSTRAP)
- - HTML
+ - HTML, CSS (+BOOTSTRAP)
  - SVG
  - DART (+FLUTTER)
  - AWS (+S3 +EC2)
