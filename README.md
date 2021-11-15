@@ -43,9 +43,9 @@ About my mastery in some technologies:
  - RUBY (+ON RAILS)
 
 SAMPLES
- - Trilogix | <a href='https://trilogix.herokuapp.com/'>Nodejs(+express), AWS(S3), Heroku, Bootstrap ↗️</a>
- - Alexlune (open-source) | <a href='https://renatoexpert.github.io/alexlune/'>Web(HTML, Javascript, CSS), Github Pages, SVG(handmade) ↗️</a>
- - Mineswamp (only-source) | <a href='https://github.com/RenatoExpert/minesweeper-flutter'>Dart(Flutter) ↗️</a>
+ - Trilogix | <a href='https://trilogix.herokuapp.com/' target="_blank">Nodejs(+express), AWS(S3), Heroku, Bootstrap ↗️</a>
+ - Alexlune (open-source) | <a href='https://renatoexpert.github.io/alexlune/' target="_blank">Web(HTML, Javascript, CSS), Github Pages, SVG(handmade) ↗️</a>
+ - Mineswamp (only-source) | <a href='https://github.com/RenatoExpert/minesweeper-flutter' target="_blank">Dart(Flutter) ↗️</a>
 
 <!---
 RenatoExpert/RenatoExpert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
