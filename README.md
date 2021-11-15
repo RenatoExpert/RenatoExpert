@@ -1,43 +1,45 @@
-.:: Intro ::.
-I’m @RenatoExpert
-🧠 Polymath, polyglot
-📫 Mail me! renatorraraujo@gmail.com
-🗨️ Feel free to contact me in your native language
+.:: Hello World! ::.
+ - I’m @RenatoExpert
+ - 🧠 Polymath, polyglot
+ - 📫 Mail me! renatorraraujo@gmail.com
+ - 🗨️ Feel free to contact me in your native language
 
 
 About my mastery in some technologies:
 
 👀 A BIT FAMILIAR
--- JAVA
--- MAKE
+ - JAVA
+ - MAKE
+ - ANDROID
 
 💞️ I HAVE FUN WITH
--- ASSEMBLY
--- C
--- PHP
--- BASH
--- WEB CANVAS AND SVG
--- .OBJ (WRITING AND MANUPULATING BY HAND)
--- DOCKER
--- .PDB (+GARLIC)
--- NOSQL
--- THREEJS
+ - ASSEMBLY
+ - C
+ - PHP
+ - BASH
+ - WEB CANVAS AND SVG
+ - .OBJ (WRITING AND MANUPULATING BY HAND)
+ - DOCKER
+ - .PDB (+GARLIC)
+ - NOSQL
+ - THREEJS
 
 👋 I REALLY USE
--- PYTHON (+DATA ANALISYS AND A.I. MOST COMMON LIBS)
--- JAVASCRIPT (+NODEJS)
--- CSS
--- HTML
--- DART (+FLUTTER)
--- AWS (+S3 +EC2)
--- HEROKU
--- GIT (+GITHUB)
--- SQL (+MARIADB)
--- WORDPRESS
--- APACHE, NGINX
+ - PYTHON (+DATA ANALISYS AND A.I. MOST COMMON LIBS)
+ - JAVASCRIPT (+NODEJS)
+ - CSS
+ - HTML
+ - DART (+FLUTTER)
+ - AWS (+S3 +EC2)
+ - HEROKU
+ - GIT (+GITHUB)
+ - SQL (+MARIADB)
+ - WORDPRESS
+ - APACHE, NGINX
+ - WINDOWS, LINUX
 
 🌱 I AM LEARNING
--- RUBY (+ON RAILS)
+ - RUBY (+ON RAILS)
 
 
 <!---
