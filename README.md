@@ -26,10 +26,10 @@ About my mastery in some technologies:
 
 👋 I REALLY USE
  - PYTHON (+DATA ANALISYS AND A.I. MOST COMMON LIBS)
- - JAVASCRIPT (+NODEJS) <a href='https://trilogix.herokuapp.com/'>Sample ↗️</a>
- - CSS
+ - JAVASCRIPT (+NODEJS)
+ - CSS (+BOOTSTRAP)
  - HTML
- - .SVG
+ - SVG
  - DART (+FLUTTER)
  - AWS (+S3 +EC2)
  - HEROKU
@@ -42,6 +42,9 @@ About my mastery in some technologies:
 🌱 I AM LEARNING
  - RUBY (+ON RAILS)
 
+SAMPLES
+ - Trilogix | <a href='https://trilogix.herokuapp.com/'>Nodejs(+express), AWS(S3), Heroku, Bootstrap ↗️</a>
+ - Alexlune | <a href='https://renatoexpert.github.io/alexlune/'>Web(HTML, Javascript, CSS), Github Pages, SVG(handmade) ↗️</a>
 
 <!---
 RenatoExpert/RenatoExpert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
