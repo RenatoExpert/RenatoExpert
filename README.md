@@ -28,7 +28,7 @@ About my mastery in some technologies:
 👋 I REALLY USE
  - PYTHON (+NLTK +SPACY +MATPLOTLIB +PANDAS +NUMPY)
  - JAVASCRIPT (+NODEJS +JQUERY)
- - HTML, CSS (+BOOTSTRAP)
+ - HTML (+CANVAS), CSS (+BOOTSTRAP)
  - SVG
  - DART (+FLUTTER)
  - AWS (+S3 +EC2)
