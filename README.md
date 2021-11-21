@@ -3,6 +3,7 @@
  - 🧠 Polymath, polyglot
  - 📫 Mail me! renatorraraujo@gmail.com
  - 🗨️ Feel free to contact me in your native language
+ - 🎨 Check other stuff I do on my page <a href='https://renatoexpert.github.io'>renatoexpert.github.io</a>
 
 
 About my mastery in some technologies:
