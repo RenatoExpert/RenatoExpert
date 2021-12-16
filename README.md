@@ -17,7 +17,6 @@ About my mastery in some technologies:
  - ASSEMBLY
  - C
  - PHP
- - BASH
  - DOCKER
  - NOSQL
  - THREEJS
@@ -37,7 +36,7 @@ About my mastery in some technologies:
  - SQL (+MARIADB +MYSQL)
  - WORDPRESS
  - APACHE, NGINX
- - WINDOWS, LINUX
+ - WINDOWS (+POWERSHELL +CMD), LINUX (BASH)
 
 🌱 I AM LEARNING
  - RUBY (+ON RAILS)
