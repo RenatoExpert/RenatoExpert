@@ -15,7 +15,9 @@ About my mastery in some technologies:
 
 💞️ I HAVE FUN WITH
  - ASSEMBLY
+ - FORTRAN
  - C
+ - C++
  - PHP
  - DOCKER
  - NOSQL
