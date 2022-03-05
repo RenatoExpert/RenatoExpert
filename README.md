@@ -8,12 +8,10 @@
 
 About my mastery in some technologies:
 
-👀 A BIT FAMILIAR
+💞️ I HAVE FUN WITH
  - JAVA
  - MAKE
  - ANDROID
-
-💞️ I HAVE FUN WITH
  - ASSEMBLY
  - FORTRAN
  - C
