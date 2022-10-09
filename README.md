@@ -12,3 +12,5 @@ CLOUD - WEB - ARTIFICIAL INTELIGENCE - CROSS-PLATAFORM - GRAPHICAL COMPUTING - A
 - You may check many open source samples here, on <a href='https://github.com/RenatoExpert?tab=repositories'>my github</a>.
 - There's valuable CV-like info on <a href='https://www.linkedin.com/in/renatoexpert/'>linkedin</a>.
 - Also building a small page for <a href='https://shogunautomacao.com.br/'>my trademark</a>.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoexpert&hide=html)](https://github.com/renatoexpert)
