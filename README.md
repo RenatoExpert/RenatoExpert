@@ -13,4 +13,4 @@ CLOUD - WEB - ARTIFICIAL INTELIGENCE - CROSS-PLATAFORM - GRAPHICAL COMPUTING - A
 - There's valuable CV-like info on <a href='https://www.linkedin.com/in/renatoexpert/'>linkedin</a>.
 - Also building a small page for <a href='https://shogunautomacao.com.br/'>my trademark</a>.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoexpert&hide=html,css&layout=compact&langs_count=10)](https://github.com/renatoexpert)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoexpert&hide=html,css&layout=compact&langs_count=10)](https://github.com/renatoexpert)
