@@ -7,7 +7,7 @@
 
 I have a deep knowledgment on many subjects, the list would be extense. <br>
 Letting some generic labels:<br>
-CLOUD - WEB - ARTIFICIAL INTELIGENCE - CROSS-PLATAFORM - GRAPHICAL COMPUTING - ACESSIBILITY - FINANCES - ROBOTICS
+CLOUD - WEB - ARTIFICIAL INTELIGENCE - CROSS-PLATAFORM - GRAPHICAL COMPUTING - ACESSIBILITY - FINANCES - ROBOTICS - IOT - AUTOMATION
 
 - You may check many open source samples here, on <a href='https://github.com/RenatoExpert?tab=repositories'>my github</a>.
 - There's valuable CV-like info on <a href='https://www.linkedin.com/in/renatoexpert/'>linkedin</a>.
