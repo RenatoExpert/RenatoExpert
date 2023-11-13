@@ -53,7 +53,7 @@ https://github.com/RenatoExpert/alexlune
 Chemistry Periodic Table specially designed for Blind People. \
 https://github.com/RenatoExpert/caeci-web
 
-### Engeneering
+### Engineering
 #### Okisa
 Software that provides calculations, tables and simulations for Natural Gas measurements.
 It is a full implemetation of AGA standard, that may be easily integrated with other softwares using its API. \
