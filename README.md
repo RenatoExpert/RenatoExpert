@@ -7,7 +7,7 @@ I currently work as Industrial Automation technician and programmer.
 
 ## Programming
 Experienced with many programming languages and frameworks, I can tell some:
- - ☁️ **Cloud**: AWS(EC2, S3), Azure
+ - ☁️ **Cloud**: AWS(EC2, S3), Azure, Heroku
  - 📱 **Mobile**: Flutter, Android Studio
  - 🍎 **MacOS**: Swift
  - 🌐 **Web**: WebAssembly(Rust), Typescript, Bootstrap, Canvas, SVG
