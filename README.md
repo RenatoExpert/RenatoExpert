@@ -11,7 +11,7 @@ Experienced with many programming languages and frameworks, I can tell some:
  - 📱 **Mobile**: Flutter, Android Studio
  - 🍎 **MacOS**: Swift
  - 🌐 **Web**: WebAssembly(Rust), Typescript, Bootstrap, Canvas, SVG
- - 🖥️ **Fullstack**: Javascript(Nodejs Express), Ruby(OnRails)
+ - 🖥️ **Fullstack**: Javascript(Nodejs Express, Vue), Ruby(OnRails)
  - ⌨️ **Backend**: Java, Dart, Python
  - 🧑‍🔬 **Common**: Perl, C, Fortran, Bash
  - 🤖 **Continuous Integration**: Git(Hooks), Github(CI), Gitlab, Docker(Composer)
