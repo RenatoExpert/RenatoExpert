@@ -12,7 +12,7 @@ Experienced with many programming languages and frameworks, I can tell some:
  - 🍎 **MacOS**: Swift
  - 🌐 **Web**: WebAssembly(Rust), Typescript, Bootstrap, Canvas, SVG
  - 🖥️ **Fullstack**: Javascript(Nodejs Express, Vue), Ruby(OnRails), Java(Tomcat)
- - ⌨️ **Backend**: Java, Dart, Python
+ - ⌨️ **Backend**: Dart, Python
  - 🧑‍🔬 **Common**: Perl, C, Fortran, Bash
  - 🤖 **Continuous Integration**: Git(Hooks), Github(CI), Gitlab, Docker(Composer)
  - 🗃️ **Database**: Mysql, Mariadb, Redis, Microsoft SQL Server, MongoDB
