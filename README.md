@@ -18,7 +18,7 @@ Experienced with many programming languages and frameworks, I can tell some:
  - 🗃️ **Database**: Mysql, Mariadb, Redis, Microsoft SQL Server, MongoDB
 
 ## Industrial Automation
- - 🏭 **PLC**: Ladder, Grafcet, Function Block, Structured Text)
+ - 🏭 **PLC**: Ladder, Grafcet, Function Block, Structured Text
  - 📺 **SCADA**: Citect(Aveva), Elipse(E3), Fujin
  - 📶 **Communication**: Modbus, Hart, Fieldbus, OPC UA, IO-Link
 
