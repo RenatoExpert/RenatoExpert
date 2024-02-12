@@ -3,7 +3,7 @@ Hello there!
 
 ## About me
  - Programmer and Automation Technician.
- - Member of [International Society of Automation](https://www.isa.org/).
+ - Member of [ISA](https://www.isa.org/).
 
 ## Programming
 Experienced with many programming languages and frameworks, I can tell some:
