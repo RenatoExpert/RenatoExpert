@@ -2,8 +2,8 @@
 Hello there!
 
 ## About me
-I am a polymat that loves linux, dogs and Chopin.
-I currently work as Industrial Automation technician and programmer.
+ - Programmer and Automation Technician.
+ - Member of [International Society of Automation](https://www.isa.org/).
 
 ## Programming
 Experienced with many programming languages and frameworks, I can tell some:
