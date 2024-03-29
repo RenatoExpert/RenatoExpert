@@ -2,7 +2,7 @@
 Hello there!
 
 ## About me
- - Programmer and Automation Technician.
+ - Software developer specialized in Industrial Automation technologies.
  - Member of [ISA](https://www.isa.org/).
 
 ## Programming
