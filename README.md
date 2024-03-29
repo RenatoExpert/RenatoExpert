@@ -2,7 +2,7 @@
 Hello there!
 
 ## About me
- - Software developer specialized in Industrial Automation technologies.
+ - Software developer specialized in **Industrial Automation** technologies.
  - Member of [ISA](https://www.isa.org/).
 
 ## Programming
