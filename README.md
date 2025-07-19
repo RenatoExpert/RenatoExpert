@@ -32,6 +32,9 @@ Inspired on Agar.io game, written in javascript with webcanvas. \
 https://github.com/RenatoExpert/fagario
 
 ### Internet Of Things
+#### Argos
+Proprietary SCADA Software for different industrial processes control. \
+https://github.com/argos-scada
 #### Shuei
 SCADA integration for domestic and business pourpouses.
 Open-source, and holds a range of different software.
